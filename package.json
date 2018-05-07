@@ -1,0 +1,29 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthray/rsjx.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddharthray/rsjx/issues"
+  },
+  "homepage": "https://github.com/siddharthray/rsjx#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0"
+  }
+}
